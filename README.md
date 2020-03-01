@@ -1,5 +1,7 @@
 # vue_nasa
 
+This app uses NASA image API to fetch images and display them after passing scharch query.
+ 
 ## Project setup
 ```
 yarn install
