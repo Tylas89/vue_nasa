@@ -8,5 +8,13 @@
   </div>
 </template>
 
-<style lang="scss" scoped>
+<style lang="scss">
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+*{
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
 </style>
